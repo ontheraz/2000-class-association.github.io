@@ -75,7 +75,6 @@ collections:
     output: true
   
     
-
 defaults:
   - scope:
       path: ""
